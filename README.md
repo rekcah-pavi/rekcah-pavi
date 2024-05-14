@@ -1,16 +1,38 @@
-### Hi there 👋
+<h3 align="center">
+        <samp>&gt; Hi 👋, I'm Paviththanan 
+        </samp>
+</h3>
 
-<!--
-**rekcah-pavi/rekcah-pavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3></h3>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rekcah-pavi&show_icons=true&theme=onestar"  /></a></p>
+<h1></h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+
+<h3 >Familiar Languages</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,lua,bash,php,java,mysql,cpp,c,javascript,html,css"/>
+</a>
+
+<h3 >Familiar Tools</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,flask,vscodium,vscode,sublime"/>
+</a>
+
+
+
+<br></br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rekcah-pavi&show_icons=true&locale=en&layout=compact&theme=react&border_color=57BDDA&border_radius=15px" alt="rekcah-pavi" /></a>  
+
+
+
+    
+
+
+
+      
+
+
