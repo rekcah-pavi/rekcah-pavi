@@ -19,7 +19,7 @@
 
 <h3 >Familiar Tools</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,flask,vscodium,vscode,sublime"/>
+    <img src="https://skillicons.dev/icons?i=kali,flask,vscodium,sublime"/>
 </a>
 
 
