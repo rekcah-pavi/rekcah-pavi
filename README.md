@@ -1,7 +1,7 @@
-<h3 align="center">
+<!--h3 align="center">
         <samp>&gt; Hi 👋, I'm Paviththanan 
         </samp>
-</h3>
+</h3 -->
 
   <h3></h3>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rekcah-pavi&show_icons=true&theme=onestar"  /></a></p>
