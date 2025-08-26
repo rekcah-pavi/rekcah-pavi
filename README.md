@@ -12,15 +12,29 @@
 <br>
 
 
-<h3 >Familiar Languages</h3>
+<h3>💻 Familiar Languages</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,lua,bash,php,java,mysql,cpp,c,javascript,html,css"/>
+    <img src="https://skillicons.dev/icons?i=python,lua,bash,php,java,cpp,c,javascript,typescript,html,css,dart"/>
 </a>
 
-<h3 >Familiar Tools</h3>
+<h3>⚙️ Frameworks & Libraries</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,flask,vscodium,sublime"/>
+    <img src="https://skillicons.dev/icons?i=react,django,flask,flutter,nodejs"/>
 </a>
+
+<h3>🗄️ Databases</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+</a>
+
+<h3>🛠️ Tools & Platforms</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,vscodium,sublime,androidstudio,eclipse,idea"/>
+</a>
+
+
+
+
 
 
 
