@@ -4,7 +4,7 @@
 </h3 -->
 
   <h3></h3>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rekcah-pavi&show_icons=true&theme=onestar"  /></a></p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=rekcah-pavi&show_icons=true&theme=onestar"  /></a></p>
 <h1></h1>
 
 
