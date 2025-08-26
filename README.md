@@ -19,7 +19,7 @@
 
 <h3>⚙️ Frameworks & Libraries</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,django,flask,flutter,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,flutter,nodejs"/>
 </a>
 
 <h3>🗄️ Databases</h3>
